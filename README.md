@@ -1,8 +1,8 @@
 # forestgame
 
 ## A text-based game done as a first project with python.
-### To play the game, run forestgame_v0.py
-### this will also import modules from forestcombat.py
+### To play the game, run [forestgame_v0.py](https://github.com/seekflow/forestgame/blob/main/forestgame_v0.py)
+### this requires importing modules from [forestcombat.py](https://github.com/seekflow/forestgame/blob/main/forestcombat.py)
 
 The player will navigate a series of challenges as they venture into the enchanted forest, culminating in a boss battle with the forest spirit. 
 Have fun! 
